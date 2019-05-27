@@ -1,6 +1,6 @@
 # -*- encoding=UTF-8 -*-
 
-from Tkinter import *
+from tkinter import *
 
 
 class App:
@@ -15,7 +15,7 @@ class App:
         self.hi_there.pack(side=LEFT)
 
     def say_hi(self):
-        print "hi there, this is a class example!"
+        print("hi there, this is a class example!")
 
 
 win = Tk()

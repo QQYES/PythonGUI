@@ -1,6 +1,6 @@
 # coding=UTF-8
-from Tkinter import *
-import ttk
+from tkinter import *
+from tkinter import ttk
 
 root = Tk()
 

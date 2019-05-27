@@ -1,5 +1,5 @@
 # coding=utf-8
-from Tkinter import *
+from tkinter import *
 
 window = Tk()
 canvas = Canvas(window, width=200, height=100, bg="white")
